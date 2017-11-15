@@ -1,0 +1,176 @@
+.this{
+
+	margin-left: 175px;
+	display: flex;
+	background-size: cover;
+	 width: 72%;
+    height: 300px;
+     border-radius: 25px;
+    background: transparent;    
+
+}
+
+
+#change{
+	margin-right: 4px;
+}
+
+
+header.site{
+	margin-left: 175px;
+	background-color: #0e2408;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 70px;
+	width: 72%;
+	
+	box-sizing: border-box;
+}
+
+body header div.name{
+	display: flex;
+	color: white;
+	font: normal normal normal 20px/1.3em helvetica-w01-light,helvetica-w02-light,sans-serif;
+}
+
+.name a{
+	color: white;
+	border-bottom: transparent;
+}
+
+#imagine{
+
+	width: 40px;
+	height: 40px;
+	background-color: transparent;
+	border-radius: 20px;
+
+}
+
+img#imagee{
+    margin-top: -15px;                    
+    height: 70px;
+    width: 70px;
+    border-radius: 30px;
+}
+
+
+header.site nav ul{
+	display: flex;
+}
+
+header.site nav ul li{
+	list-style: none;
+	color: white;
+	margin-left: 15px;
+}
+header.site nav ul li a{
+	color: white;
+}
+
+.box 
+{	
+margin-left: 175px;
+width: 72%;
+margin-top: 50px;
+overflow: hidden;	
+margin-bottom: 1em;
+
+}
+.box p{
+
+	font-size: 18px;
+}
+
+
+.box1{
+margin-left: 175px;
+width: 72%;
+margin-top: 190px;
+overflow: hidden;	
+margin-bottom: 1em;
+}
+
+
+.box1 li a{
+	color: black;
+	
+	
+}
+
+#blah{
+	margin-right: 400px;
+	border-bottom: 1px;
+	border-bottom-style: dotted;
+}
+
+#fit{
+	margin-left: 850px;
+	margin-top: -480px;
+}
+
+h1{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;		
+
+}
+
+h2{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h3{
+	font-family: Georgia, serif	;
+	color: #2c2b2b;
+}
+
+.boxx 
+{	
+margin-left: 175px;
+width: 50%;
+margin-top: 50px;
+overflow: hidden;	
+margin-bottom: 1em;
+
+}
+.boxx p{
+
+	font-size: 18px;
+}
+
+#fitt{
+	margin-left: 860px;
+	margin-top: -285px;
+}
+
+#fitt ul li a{
+	color: black;
+}
+
+#last{
+	margin-top: 100px;
+	border: 2px;
+	border-color: #0e2408;
+	border-style: double;
+	padding: 8px;
+	background-color: #0e2408;
+	color: white;
+}
+
+
+.one{
+	margin-left: 360px;
+}
+.two{
+	width: 100%;
+}
+.three{
+	width: 100%;
+	margin-top: 20px;
+}
+.four{
+	margin-top: 20px;
+}
